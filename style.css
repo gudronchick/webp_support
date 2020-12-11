@@ -1,0 +1,12 @@
+.webp .logo {
+  width: 300px;
+  height: 400px;
+  background: url(img/1.webp) center / cover;
+}
+
+.no-webp .logo {
+  width: 300px;
+  height: 400px;
+  background: #fff center / cover;
+  background-image: url(img/1.png);
+}
